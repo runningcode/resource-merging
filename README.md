@@ -22,3 +22,5 @@ However, when using espresso to call  click on `com.osacky.one.R.button_two` in 
 e: /Users/no/workspace/PackageMerging/app/src/androidTest/java/com/osacky/merging/ExampleInstrumentedTest.kt: (35, 43): Unresolved reference: button_two
 ```
 
+[Filed this bug against Google](https://issuetracker.google.com/issues/154260219)
+[Please star!](https://issuetracker.google.com/issues/154260219)
